@@ -6,7 +6,7 @@ For this project, you can focus your efforts within a specific industry, as deta
 # Scope
 -   Pick 3 AI related companies to analyze the stocks/financial data to see how they perform through Covid Pandemic 2020-2023.
 -   using historic data we can try to make projection on how the company may perform in the future.
--   We will choose NVidia, Intel, Microsoft, Tesla, Amazon, Alphabet Inc, Arista Networks Inc
+-   We will choose NVidia, Intel, Microsoft, Tesla, Amazon, Alphabet Inc, Arista Networks Inc, Meta
 
 
 
