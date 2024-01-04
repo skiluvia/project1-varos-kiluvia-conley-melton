@@ -11,5 +11,6 @@ For this project, you can focus your efforts within a specific industry, as deta
 
 
 
-##Appendix (Resources)
+## Appendix (Resources)
 - https://money.usnews.com/investing/articles/artificial-intelligence-stocks-the-10-best-ai-companies
+- https://builtin.com/artificial-intelligence/publicly-traded-ai-companies 
