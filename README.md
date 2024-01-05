@@ -8,7 +8,8 @@ For this project, you can focus your efforts within a specific industry, as deta
 -   using historic data we can try to make projection on how the company may perform in the future.
 -   We will choose NVidia, Intel, Microsoft, Tesla, Amazon, Alphabet Inc, Arista Networks Inc, Meta
 
-
+# Presentation
+- A PowerPoint template will be developed and used to present the groups findings.
 
 
 ## Appendix (Resources)
