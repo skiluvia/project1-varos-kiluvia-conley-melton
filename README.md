@@ -62,12 +62,32 @@ For this project, you can focus your efforts within a specific industry, as deta
 
 # Based on the code, how did we arrive at our figures????  What Statistical Analysis was used?
 
+## Companies Projections
+![All 8 Companies](./Resources/all_comp_closing_prices.png)
 
+## Amazon Projection
+![Amazon](./Resources/amzn_projection.png)
 
-# Graphical Representations go here.
+## Google Projection
+![Google](./Resources/goog_projection.png)
 
+## Arista Networks Inc
+![Arista Networks Inc](./Resources/anet_projection.png)
 
+## Intel Corporation
+![Intel](./Resources/intc_projection.png)
 
+## META
+![META](./Resources/meta_projection.png)
+
+## Microsoft
+![Microsoft](./Resources/msft_projection.png)
+
+## NVIDIA
+![NVIDIA](./Resources/nvda_projection.png)
+
+## TESLA
+![TESLA](./Resources/tsla_projection.png)
 
 
 ## Appendix (Resources)
@@ -76,13 +96,4 @@ For this project, you can focus your efforts within a specific industry, as deta
 - https://builtin.com/artificial-intelligence/publicly-traded-ai-companies
 - https://greenstocknews.com/stocks/artificial-intelligence-stocks 
 
-# Images links
-![All 8 Companies](./Resources/all_comp_closing_prices.png)
-![Amazon Projection Image](./Resources/amzn_projection.png)
-![Amazon Projection Image](./Resources/anet_projection.png)
-![Amazon Projection Image](./Resources/goog_projection.png)
-![Amazon Projection Image](./Resources/intc_projection.png)
-![Amazon Projection Image](./Resources/meta_projection.png)
-![Amazon Projection Image](./Resources/msft_projection.png)
-![Amazon Projection Image](./Resources/nvda_projection.png)
-![Amazon Projection Image](./Resources/tsla_projection.png)
+
