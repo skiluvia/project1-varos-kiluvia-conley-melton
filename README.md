@@ -16,3 +16,7 @@ For this project, you can focus your efforts within a specific industry, as deta
 - https://money.usnews.com/investing/articles/artificial-intelligence-stocks-the-10-best-ai-companies
 - https://builtin.com/artificial-intelligence/publicly-traded-ai-companies
 - https://greenstocknews.com/stocks/artificial-intelligence-stocks 
+
+# Images links
+![All 8 Companies](./Resources/canvaslogo.png)
+![All 8 Companies](./Resources/amzn_projection.png)
