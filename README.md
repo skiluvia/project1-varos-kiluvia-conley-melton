@@ -20,3 +20,10 @@ For this project, you can focus your efforts within a specific industry, as deta
 # Images links
 ![All 8 Companies](./Resources/all_comp_closing_prices.png)
 ![Amazon Projection Image](./Resources/amzn_projection.png)
+![Amazon Projection Image](./Resources/anet_projection.png)
+![Amazon Projection Image](./Resources/goog_projection.png)
+![Amazon Projection Image](./Resources/intc_projection.png)
+![Amazon Projection Image](./Resources/meta_projection.png)
+![Amazon Projection Image](./Resources/msft_projection.png)
+![Amazon Projection Image](./Resources/nvda_projection.png)
+![Amazon Projection Image](./Resources/tsla_projection.png)
