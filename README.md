@@ -19,4 +19,4 @@ For this project, you can focus your efforts within a specific industry, as deta
 
 # Images links
 ![All 8 Companies](./Resources/canvaslogo.png)
-![All 8 Companies](./Resources/amzn_projection.png)
+![Amazon Projection Image](./Resources/amzn_projection.png)
