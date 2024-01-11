@@ -74,22 +74,22 @@ For this project, you can focus your efforts within a specific industry, as deta
 ## Google Projection
 ![Google](./Resources/goog_projection.png)
 
-## Arista Networks Inc
+## Arista Networks Inc Projection
 ![Arista Networks Inc](./Resources/anet_projection.png)
 
-## Intel Corporation
+## Intel Corporation Projection
 ![Intel](./Resources/intc_projection.png)
 
-## META
+## META Projection
 ![META](./Resources/meta_projection.png)
 
-## Microsoft
+## Microsoft Projection
 ![Microsoft](./Resources/msft_projection.png)
 
-## NVIDIA
+## NVIDIA Projection
 ![NVIDIA](./Resources/nvda_projection.png)
 
-## TESLA
+## TESLA Projection
 ![TESLA](./Resources/tsla_projection.png)
 
 
