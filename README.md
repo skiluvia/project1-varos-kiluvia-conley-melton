@@ -88,6 +88,7 @@
 - https://finance.yahoo.com/
 - https://money.usnews.com/investing/articles/artificial-intelligence-stocks-the-10-best-ai-companies
 - https://builtin.com/artificial-intelligence/publicly-traded-ai-companies
-- https://greenstocknews.com/stocks/artificial-intelligence-stocks 
+- https://greenstocknews.com/stocks/artificial-intelligence-stocks
+- Project Dashboard with tasks https://github.com/users/skiluvia/projects/1/views/1
 
 
