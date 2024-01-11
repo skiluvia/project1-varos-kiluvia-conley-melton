@@ -7,6 +7,9 @@ For this project, you can focus your efforts within a specific industry, as deta
 - The purpose of the project was to identify eight (8) companies stock who had an AI focus and review their performance during the 2020 - 2023 performance years influenced by the Covid pandemic.  This information provided historical data to make a prediction using Prophet and determine year end closing prices for 2025.  2024 year end closing prices were also identified for all companies to determine an endpoint reference.  It should be noted all companies maintained original business objectives which included a focus on non AI factors as well as prepandemic product lines.  These factors may influence a higher comparative stock price for companies with broader business objectives than others.  It was concluded NVDA not only had the highest closing stock price but the highest future closing price for 2025 while GOOG had the lowest closing stock price and lowest future price for 2025.
 
 # Data Collection
+- First looked to NASDAQ API. Albeit free data sets, this source requires an account.
+- Secondly looked at Google Finance. Data is free, but this source requires the use of Google Sheets.
+- Lastly, looked at and decided to use Yahoo Finance. The data is free and is downloaded as csv files.
 - Data Collection was obtained from https://finance.yahoo.com.
 - Reference research was obtained in Appencicies of Readme.md.
 
