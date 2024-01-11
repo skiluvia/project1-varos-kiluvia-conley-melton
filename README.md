@@ -1,7 +1,4 @@
-# project1-varos-kiluvia-conley-melton
-
-For Project 1, you will work with your group to find and analyze a dataset of your choice.
-For this project, you can focus your efforts within a specific industry, as detailed in the following examples.
+## project1-varos-kiluvia-conley-melton
 
 # Executive Summary
 - The purpose of the project was to identify eight (8) companies stock who had an AI focus and review their performance during the 2020 - 2023 performance years influenced by the Covid pandemic.  This information provided historical data to make a prediction using Prophet and determine year end closing prices for 2025.  2024 year end closing prices were also identified for all companies to determine an endpoint reference.  It should be noted all companies maintained original business objectives which included a focus on non AI factors as well as prepandemic product lines.  These factors may influence a higher comparative stock price for companies with broader business objectives than others.  It was concluded NVDA not only had the highest closing stock price but the highest future closing price for 2025 while GOOG had the lowest closing stock price and lowest future price for 2025.
@@ -23,7 +20,6 @@ For this project, you can focus your efforts within a specific industry, as deta
 - Future development includes the identification of price range during the 2020 - 2024 timeframe and the average fluctation of stock prices.  Highest percentage gains should be determined from initial 2020 price to closing of 2025.  Recommendations should be made to determine which stock to purchase for maximum profit in 2025.
 
 
-
 # Scope/Project Overview
 -  An agile project was set up using GitHub Projects to get the group started and establish a proper focus.
 -  The focus resulted in an analysis of the financial stock market.
@@ -32,9 +28,6 @@ For this project, you can focus your efforts within a specific industry, as deta
 -  Historical data was used to predict how the companies may perform in the future.
 -  Companies chosen were NVidia, Intel, Microsoft, Tesla, Amazon, Alphabet Inc, Arista Networks Inc, Meta
 -  The group met regulary during class hours as well as worked individually during off hours to ensure all milestones were met and a timeline maintained.
-
-# Specifically what questions were we wanting to answer????
-
 
 # Software Version Control
 - A GitHub repository was created.  All group members contributed to respsitory.
@@ -62,8 +55,6 @@ For this project, you can focus your efforts within a specific industry, as deta
 - The findings indicate GOOG had the lowest closing prices with the smallest growth in closing dollar amount for 2025.
 - INTC did not contain enough data for a comparative analysis resulting in a small scrubbing or cleaning of data.
 - All companies had an Artificial Intelligence focus while still maintaining pre AI and pre Covid business objectives.
-
-# Based on the code, how did we arrive at our figures????  What Statistical Analysis was used?
 
 ## Companies Projections
 ![All 8 Companies](./Resources/all_comp_closing_prices.png)
